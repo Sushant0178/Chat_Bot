@@ -15,4 +15,4 @@ def blue():
 
 # if blue()== True:
 #    keyboard.press_and_release('windows+a')
-blue()
+blue()  #` Call the function to execute the Bluetooth toggle action`
